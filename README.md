@@ -3,7 +3,7 @@
 Hey! I made lil finder guy in Blender :) I'm still learning shading and rigging, so feel free to download the model and make something cool with it!
 
 ## What is this
-- A Blender model of a tiny character called "lil finder guy".
+- A Blender model of the "new" Apple mascot `Lil Finder Guy`.
 - Includes a base T-pose and a sample render.
 
 ## Previews
